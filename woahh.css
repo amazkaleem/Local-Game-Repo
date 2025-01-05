@@ -8,3 +8,14 @@ div {
     border-radius: 10px;
     align-content: center;
 }
+
+section {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    align-content: center;
+}
